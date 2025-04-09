@@ -1,0 +1,44 @@
+
+[
+  {
+  "train_id": "Train",
+  "train_no": 12345,
+  "seats": [
+    [0,0,0,0,0,0],
+    [0,0,0,0,0,0],
+    [0,0,0,0,0,0],
+    [0,0,0,0,0,0]
+  ],
+  "stations_times": {
+    "bangalore": "13:50:00",
+    "jaipur": "13:50:00",
+    "delhi": "13:50:00"
+  },
+    "stations": [
+      "bangalore",
+      "jaipur",
+      "delhi"
+    ]
+  },
+
+  {
+    "train_id": "Train",
+    "train_no": 12345,
+    "seats": [
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0]
+    ],
+    "stations_times": {
+      "bangalore": "13:50:00",
+      "jaipur": "13:50:00",
+      "delhi": "13:50:00"
+    },
+    "stations": [
+      "bangalore",
+      "jaipur",
+      "delhi"
+    ]
+  }
+]

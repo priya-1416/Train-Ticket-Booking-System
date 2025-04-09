@@ -4,8 +4,17 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="PLATFORM" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../Downloads/gradle-8.13" />
         <option name="gradleJvm" value="23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
       </GradleProjectSettings>
     </option>
   </component>
